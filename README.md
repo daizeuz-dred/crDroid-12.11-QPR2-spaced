@@ -35,7 +35,6 @@
 
 ---
 
-══════════════════════════════════════════════
 ### 📝 **Notes & Installation**
 * A clean flash is highly recommended if migrating from another ROM.
 * If your facing minimal screen flickering, you can fix it by yourself by flashing this [**module**](https://t.me/DEEZProjects/23).
@@ -47,7 +46,7 @@
 
 ---
 
-### 🤝🏻 **Help me continue my projects?**
+### 🤝🏻 **Buy me a coffee?**
 * Github Sponsor: [**Sponsor**](https://github.com/sponsors/daizeuz-dred)
 * Sociabuzz: [**Sponsor**](https://sociabuzz.com/daizeuzdred/tribe)
 
