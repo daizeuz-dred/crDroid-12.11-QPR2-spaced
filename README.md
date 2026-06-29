@@ -1,8 +1,10 @@
 <img width="2760" height="1720" alt="crdroid_spaced_banner_v6" src="https://github.com/user-attachments/assets/824196ec-4a9b-4828-af99-b018c1efe3b5" />
 
 
-### crDroid 12.11 QPR2 — Realme 8i / Narzo 50 (`spaced`)
-### Android 16 | Maintained by **DΞΞZNUTZ**
+### crDroid 12.11 QPR2  
+### Realme 8i / Narzo 50 (`spaced`)
+### Android 16  
+### Maintained by **DΞΞZNUTZ**
 
 ---
 
